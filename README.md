@@ -11,7 +11,7 @@ No Unit is the best unit-testing framework for the [No Code language](https://gi
 
 ## Getting Started ##
 
-Until *Noget* (the official package manager for [No Code](https://github.com/kelseyhightower/nocode)) is available to all [No Code](https://github.com/kelseyhightower/nocode) users, start by downloading the No Unit source and including it in your solution. Reference No Unit in your test project, then write your tests in No Code:
+Until *NoGet* (the official package manager for [No Code](https://github.com/kelseyhightower/nocode)) is available to all [No Code](https://github.com/kelseyhightower/nocode) users, start by downloading the No Unit source and including it in your solution. Reference No Unit in your test project, then write your tests in No Code:
 
 ```
 
