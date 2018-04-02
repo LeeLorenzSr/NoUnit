@@ -1,6 +1,6 @@
 # NoUnit Framework #
 
-No Unit is the best unit-testing framework for the [No Code language](https://github.com/kelseyhightower/nocode), written entirely in [No Code](https://github.com/kelseyhightower/nocode)! Initially ported from NUnit, the current production release has been written with many features and support for [No Code](https://github.com/kelseyhightower/nocode).
+No Unit is the best unit-testing framework for the [No Code language](https://github.com/kelseyhightower/nocode), written entirely in [No Code](https://github.com/kelseyhightower/nocode)! Initially ported from [NUnit] (https://github.com/nunit/nunit), the current production release has been written with many features and support for [No Code](https://github.com/kelseyhightower/nocode).
 
 ## Table of Contents ##
 
